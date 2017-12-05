@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/A_Setthawut/Desktop/Code Program/Visual C#/Project_1/GameProject/heavyWeapon/heavyWeapon/Content/tank.png</File>
+    <File>C:/Users/A_Setthawut/Desktop/Code Program/Visual C#/Project_1/GameProject/heavyWeapon/heavyWeapon/Content/smallcopter.png</File>
+    <File>C:/Users/A_Setthawut/Desktop/Code Program/Visual C#/Project_1/GameProject/heavyWeapon/heavyWeapon/Content/airmine.png</File>
+    <File>C:/Users/A_Setthawut/Desktop/Code Program/Visual C#/Project_1/GameProject/heavyWeapon/heavyWeapon/Content/bombfrag.png</File>
+    <File>C:/Users/A_Setthawut/Desktop/Code Program/Visual C#/Project_1/GameProject/heavyWeapon/heavyWeapon/Content/laserP_2.png</File>
+    <File>C:/Users/A_Setthawut/Desktop/Code Program/Visual C#/Project_1/GameProject/heavyWeapon/heavyWeapon/Content/megalaser.png</File>
+    <File>C:/Users/A_Setthawut/Desktop/Code Program/Visual C#/Project_1/GameProject/heavyWeapon/heavyWeapon/Content/explosion.png</File>
+    <File>C:/Users/A_Setthawut/Desktop/Code Program/Visual C#/Project_1/GameProject/heavyWeapon/heavyWeapon/Content/enemytank.png</File>
+    <File>C:/Users/A_Setthawut/Desktop/Code Program/Visual C#/Project_1/GameProject/heavyWeapon/heavyWeapon/Content/mountian-sand.png</File>
+    <File>C:/Users/A_Setthawut/Desktop/Code Program/Visual C#/Project_1/GameProject/heavyWeapon/heavyWeapon/Content/floor.png</File>
+    <File>C:/Users/A_Setthawut/Desktop/Code Program/Visual C#/Project_1/GameProject/heavyWeapon/heavyWeapon/Content/sky.png</File>
+    <File>C:/Users/A_Setthawut/Desktop/Code Program/Visual C#/Project_1/GameProject/heavyWeapon/heavyWeapon/Content/behind-sand.png</File>
+    <File>C:/Users/A_Setthawut/Desktop/Code Program/Visual C#/Project_1/GameProject/heavyWeapon/heavyWeapon/Content/enemytank_2.png</File>
+    <File>C:/Users/A_Setthawut/Desktop/Code Program/Visual C#/Project_1/GameProject/heavyWeapon/heavyWeapon/Content/lgbEdit.png</File>
+    <File>C:/Users/A_Setthawut/Desktop/Code Program/Visual C#/Project_1/GameProject/heavyWeapon/heavyWeapon/Content/truck.png</File>
+    <File>C:/Users/A_Setthawut/Desktop/Code Program/Visual C#/Project_1/GameProject/heavyWeapon/heavyWeapon/Content/22.png</File>
+    <File>C:/Users/A_Setthawut/Desktop/Code Program/Visual C#/Project_1/GameProject/heavyWeapon/heavyWeapon/Content/deltabomber.png</File>
+    <File>C:/Users/A_Setthawut/Desktop/Code Program/Visual C#/Project_1/GameProject/heavyWeapon/heavyWeapon/Content/propfighter.png</File>
+    <File>C:/Users/A_Setthawut/Desktop/Code Program/Visual C#/Project_1/GameProject/heavyWeapon/heavyWeapon/Content/gameFont.spritefont</File>
+    <File>C:/Users/A_Setthawut/Desktop/Code Program/Visual C#/Project_1/GameProject/heavyWeapon/heavyWeapon/Content/bullet.png</File>
+    <File>C:/Users/A_Setthawut/Desktop/Code Program/Visual C#/Project_1/GameProject/heavyWeapon/heavyWeapon/Content/propfighter1.png</File>
+    <File>C:/Users/A_Setthawut/Desktop/Code Program/Visual C#/Project_1/GameProject/heavyWeapon/heavyWeapon/Content/mainbigbtn.png</File>
+    <File>C:/Users/A_Setthawut/Desktop/Code Program/Visual C#/Project_1/GameProject/heavyWeapon/heavyWeapon/Content/showbaria.png</File>
+    <File>C:/Users/A_Setthawut/Desktop/Code Program/Visual C#/Project_1/GameProject/heavyWeapon/heavyWeapon/Content/Armor.png</File>
+    <File>C:/Users/A_Setthawut/Desktop/Code Program/Visual C#/Project_1/GameProject/heavyWeapon/heavyWeapon/Content/baria.png</File>
+    <File>C:/Users/A_Setthawut/Desktop/Code Program/Visual C#/Project_1/GameProject/heavyWeapon/heavyWeapon/Content/showbaria_2.png</File>
+    <File>C:/Users/A_Setthawut/Desktop/Code Program/Visual C#/Project_1/GameProject/heavyWeapon/heavyWeapon/Content/11.png</File>
+    <File>C:/Users/A_Setthawut/Desktop/Code Program/Visual C#/Project_1/GameProject/heavyWeapon/heavyWeapon/Content/12.png</File>
+    <File>C:/Users/A_Setthawut/Desktop/Code Program/Visual C#/Project_1/GameProject/heavyWeapon/heavyWeapon/Content/13.png</File>
+    <File>C:/Users/A_Setthawut/Desktop/Code Program/Visual C#/Project_1/GameProject/heavyWeapon/heavyWeapon/Content/14.png</File>
+    <File>C:/Users/A_Setthawut/Desktop/Code Program/Visual C#/Project_1/GameProject/heavyWeapon/heavyWeapon/Content/baria2.png</File>
+    <File>C:/Users/A_Setthawut/Desktop/Code Program/Visual C#/Project_1/GameProject/heavyWeapon/heavyWeapon/Content/showbaria_1.png</File>
+    <File>C:/Users/A_Setthawut/Desktop/Code Program/Visual C#/Project_1/GameProject/heavyWeapon/heavyWeapon/Content/nukeicon.png</File>
+    <File>C:/Users/A_Setthawut/Desktop/Code Program/Visual C#/Project_1/GameProject/heavyWeapon/heavyWeapon/Content/13_1.png</File>
+    <File>C:/Users/A_Setthawut/Desktop/Code Program/Visual C#/Project_1/GameProject/heavyWeapon/heavyWeapon/Content/Health2.png</File>
+    <File>C:/Users/A_Setthawut/Desktop/Code Program/Visual C#/Project_1/GameProject/heavyWeapon/heavyWeapon/Content/hugecopter.png</File>
+    <File>C:/Users/A_Setthawut/Desktop/Code Program/Visual C#/Project_1/GameProject/heavyWeapon/heavyWeapon/Content/pointmouse.png</File>
+    <File>C:/Users/A_Setthawut/Desktop/Code Program/Visual C#/Project_1/GameProject/heavyWeapon/heavyWeapon/Content/GunHero1.png</File>
+    <File>C:/Users/A_Setthawut/Desktop/Code Program/Visual C#/Project_1/GameProject/heavyWeapon/heavyWeapon/Content/Hero1.png</File>
+    <File>C:/Users/A_Setthawut/Desktop/Code Program/Visual C#/Project_1/GameProject/heavyWeapon/heavyWeapon/Content/Hero2.png</File>
+    <File>C:/Users/A_Setthawut/Desktop/Code Program/Visual C#/Project_1/GameProject/heavyWeapon/heavyWeapon/Content/enemies1.png</File>
+    <File>C:/Users/A_Setthawut/Desktop/Code Program/Visual C#/Project_1/GameProject/heavyWeapon/heavyWeapon/Content/Stage_5.png</File>
+    <File>C:/Users/A_Setthawut/Desktop/Code Program/Visual C#/Project_1/GameProject/heavyWeapon/heavyWeapon/Content/enemies2.png</File>
+    <File>C:/Users/A_Setthawut/Desktop/Code Program/Visual C#/Project_1/GameProject/heavyWeapon/heavyWeapon/Content/enemies4.png</File>
+    <File>C:/Users/A_Setthawut/Desktop/Code Program/Visual C#/Project_1/GameProject/heavyWeapon/heavyWeapon/Content/enemies15.png</File>
+    <File>C:/Users/A_Setthawut/Desktop/Code Program/Visual C#/Project_1/GameProject/heavyWeapon/heavyWeapon/Content/bulletEnemies2.png</File>
+    <File>C:/Users/A_Setthawut/Desktop/Code Program/Visual C#/Project_1/GameProject/heavyWeapon/heavyWeapon/Content/ma.png</File>
+    <File>C:/Users/A_Setthawut/Desktop/Code Program/Visual C#/Project_1/GameProject/heavyWeapon/heavyWeapon/Content/SelectMap.jpg</File>
+  </SourceFiles>
+</SourceFileCollection>
